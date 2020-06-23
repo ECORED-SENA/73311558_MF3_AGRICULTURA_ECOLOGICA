@@ -1,0 +1,148 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "suelo",
+    "title": "1. El suelo y la fertilidad",
+    "breadcrumb": ["Inicio","Tema1"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "suelo",
+        "title": "1.1 Nutrición Vegetal",
+        "anchor": "nutricion"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "suelo",
+        "title": "1.2 Nutrientes Necesarios para el Crecimiento",
+        "anchor": "nutrientes"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "suelo",
+        "title": "1.3 Deficiencia de Nutrientes",
+        "anchor": "deficiencia"
+      }
+    ]   
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-play-circle",
+    "slug": "fertilizacion",
+    "title": "2. Fertilización ecológica",
+    "breadcrumb": ["Inicio","Tema2"],
+    "path": "pages/2-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "fertilizacion",
+        "title": "2.1 Técnicas y Estrategias",
+        "anchor": "tecnicas"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "fertilizacion",
+        "title": "2.2 Componentes",
+        "anchor": "componentes"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "programa",
+    "title": "3. Programa de fertilización ecológica",
+    "breadcrumb": ["Inicio","Tema3"],
+    "path": "pages/3-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "programa",
+        "title": "3.1 Cálculo de las necesidades de los elementos",
+        "anchor": "calculo"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "programa",
+        "title": "3.2 Dosis de Enmiendas y Abonos Orgánicos",
+        "anchor": "dosis"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "programa",
+        "title": "3.3 Evaluación de un programa de fertilización ecológica",
+        "anchor": "evaluacion"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "algunos",
+    "title": "4. Algunos fertilizantes orgánicos",
+    "breadcrumb": ["Inicio","Tema4"],
+    "path": "pages/4-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "algunos",
+        "title": "4.1 Compost o mantillo",
+        "anchor": "compost"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "algunos",
+        "title": "4.2 Fases en el Proceso de Compost",
+        "anchor": "fases"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "algunos",
+        "title": "4.3 Elementos a tener en cuenta en el Compostaje",
+        "anchor": "elementos"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "icon": "fa fa-file-text",
+    "slug": "biofertilizantes",
+    "title": "5. BIOFERTILIZANTES O BIOFERMENTADOS",
+    "breadcrumb": ["Inicio","Tema5"],
+    "path": "pages/5-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "biofertilizantes",
+        "title": "5.1 Efectos de los Biofertilizantes",
+        "anchor": "efectos"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "biofertilizantes",
+        "title": "5.2 Funcionamiento de los Biofertilizantes",
+        "anchor": "funcionamientos"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "biofertilizantes",
+        "title": "5.3 Biofertilizante Súper Magro",
+        "anchor": "biofertilizante"
+      }
+    ]
+  },
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
+  }
+]

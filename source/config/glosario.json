@@ -1,0 +1,102 @@
+[
+  {
+    "letter": "A",
+    "terms": [
+      {
+        "title": "Ácidos húmicos",
+        "desciption": "Son sustancias orgánicas producidas a partir de la descomposición de la materia orgánica, se encuentran presentes en el humus y tienen una relación directa con la fertilidad del suelo, el desarrollo y producción de los cultivos."
+      },
+      {
+        "title": "Aeróbico",
+        "desciption": "Son organismos o procesos que se desarrollan en presencia de oxígeno, es más, requieren de este elemento."
+      },
+      {
+        "title": "Anaeróbico",
+        "desciption": "Son organismos o procesos que se desarrollan en ausencia de oxígeno, es más, requieren de la falta de este elemento."
+      }
+    ]
+  },
+  {
+    "letter": "B",
+    "terms": [
+      {
+        "title": "Biopreparados",
+        "desciption": "Son sustancias que se originan a partir de residuos animales y vegetales, y que después de un proceso, son utilizados para fertilizar los cultivos, brindar mejores condiciones de resistencia a plagas y enfermedades, además enriquecer el suelo."
+      }
+    ]
+  }, 
+  {
+    "letter": "E",
+    "terms": [
+      {
+        "title": "Enmienda agrícola",
+        "desciption": "Es un producto que se incorpora al suelo con el fin de mejorar una o varios de sus propiedades físicas, químicas y biológicas, para proporcionar un mejor sustento a las plantas."
+      },
+      {
+        "title": "Estoma",
+        "desciption": "Es la estructura celular de las plantas que se encuentra ubicadas en las hojas o en el tejido verde en general, que tiene como función el intercambio gaseoso con el medio."
+      }
+    ]
+  },
+  {
+    "letter": "F",
+    "terms": [
+      {
+        "title": "Fitopatógenos",
+        "desciption": "Son agentes causantes de enfermedades en las plantas."
+      },
+      {
+        "title": "Floema",
+        "desciption": "Es el tejido vegetal que se encarga de transportar la savia elaborada desde las partes superiores de las plantas a la raíz."
+      }
+    ]
+  },  
+  {
+    "letter": "M",
+    "terms": [
+      {
+        "title": "Macronutrientes",
+        "desciption": "Elementos minerales que las plantas requieren de mayor cantidad para su normal crecimiento, desarrollo y producción."
+      },
+      {
+        "title": "Micronutrientes",
+        "desciption": "Elementos que las plantas requieren en cantidades mínimas, pero que tienen funciones específicas para su normal desarrollo y producción."
+      }
+    ]
+  },
+  {
+    "letter": "O",
+    "terms": [
+      {
+        "title": "Organismos autótrofos",
+        "desciption": "Son los organismos con capacidad de producir su propio alimento. Los vegetales hacen parte de este grupo."
+      },
+      {
+        "title": "Organismos mesófilos",
+        "desciption": "Son los organismos que tienen su actividad vital a temperaturas bajas."
+      },
+      {
+        "title": "Organismos termófilos",
+        "desciption": "Son los organismos que tienen su actividad vital a temperaturas altas."
+      }
+    ]
+  },    
+  {
+    "letter": "S",
+    "terms": [
+      {
+        "title": "Solarización del suelo",
+        "desciption": "Actividad por medio de la cual se desinfesta el suelo a través del calor producido por el sol. Controla plagas, semillas de malas hierbas y otros organismos. No es recomendable porque controlar por igual organismos dañinos y benéficos."
+      }
+    ]
+  },
+  {
+    "letter": "X",
+    "terms": [
+      {
+        "title": "Xilema",
+        "desciption": "Es el tejido vegetal que se encarga de transportar la savia bruta desde  la raíz de la planta hasta su parte aérea."
+      }
+    ]
+  }
+]
