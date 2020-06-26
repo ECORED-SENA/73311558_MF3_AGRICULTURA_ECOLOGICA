@@ -3,7 +3,7 @@
         "icon": "fa fa-download",
         "slug": "pdf",
         "title": "Descargar PDF",
-        "path": "media/documentos/MF3_Procedimiento_para_el_diseño_y_registro_de_informes.pdf"
+        "path": "media/documentos/MF3_nutricion_vegetal.pdf"
     },
     {
         "icon": "icon glosario",
@@ -11,6 +11,12 @@
         "title": "Glosario",
         "breadcrumb": ["Glosario"],
         "path": "config/glosario.json"
+    },
+    {
+        "icon": "fa fa-folder-open-o",
+        "slug": "material-complementario",
+        "title": "Material complementario",
+        "path": "pages/material-complementario.html"
     },
     {
         "icon": "icon referencias",

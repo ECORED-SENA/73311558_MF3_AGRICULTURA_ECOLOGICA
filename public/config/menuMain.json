@@ -4,7 +4,15 @@
     "slug": "external",
     "title": "Volver al Inicio",
     "path": "index.html"
-  },  
+  },
+  {
+    "id":0,
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/intro.html"
+  }, 
   { 
     "id": 1,
     "icon": "fa fa-file-text",
@@ -35,22 +43,28 @@
   },
   {
     "id": 2,
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text",
     "slug": "fertilizacion",
     "title": "2. Fertilización ecológica",
     "breadcrumb": ["Inicio","Tema2"],
     "path": "pages/2-tema.html",
     "submenu": [
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text",
         "slug": "fertilizacion",
-        "title": "2.1 Técnicas y Estrategias",
+        "title": "2.1 Concepto",
+        "anchor": "concepto"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "fertilizacion",
+        "title": "2.2 Técnicas y Estrategias",
         "anchor": "tecnicas"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "fertilizacion",
-        "title": "2.2 Componentes",
+        "title": "2.3 Componentes",
         "anchor": "componentes"
       }
     ]
@@ -115,7 +129,7 @@
     "id": 5,
     "icon": "fa fa-file-text",
     "slug": "biofertilizantes",
-    "title": "5. BIOFERTILIZANTES O BIOFERMENTADOS",
+    "title": "5. Biofertilizantes o biofermentados",
     "breadcrumb": ["Inicio","Tema5"],
     "path": "pages/5-tema.html",
     "submenu": [
