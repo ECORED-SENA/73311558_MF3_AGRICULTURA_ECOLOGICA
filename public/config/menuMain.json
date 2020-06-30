@@ -24,19 +24,19 @@
       {
         "icon": "fa fa-file-text",
         "slug": "suelo",
-        "title": "1.1 Nutrición Vegetal",
+        "title": "1.1 Nutrición vegetal",
         "anchor": "nutricion"
       },   
       {
         "icon": "fa fa-file-text",
         "slug": "suelo",
-        "title": "1.2 Nutrientes Necesarios para el Crecimiento",
+        "title": "1.2 Nutrientes necesarios para el crecimiento",
         "anchor": "nutrientes"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "suelo",
-        "title": "1.3 Deficiencia de Nutrientes",
+        "title": "1.3 Deficiencia de nutrientes",
         "anchor": "deficiencia"
       }
     ]   
@@ -58,7 +58,7 @@
       {
         "icon": "fa fa-file-text",
         "slug": "fertilizacion",
-        "title": "2.2 Técnicas y Estrategias",
+        "title": "2.2 Técnicas y estrategias",
         "anchor": "tecnicas"
       },
       {
@@ -86,7 +86,7 @@
       {
         "icon": "fa fa-file-text",
         "slug": "programa",
-        "title": "3.2 Dosis de Enmiendas y Abonos Orgánicos",
+        "title": "3.2 Dosis de enmiendas y abonos orgánicos",
         "anchor": "dosis"
       },
       {
@@ -114,13 +114,13 @@
       {
         "icon": "fa fa-file-text",
         "slug": "algunos",
-        "title": "4.2 Fases en el Proceso de Compost",
+        "title": "4.2 Fases en el proceso de compost",
         "anchor": "fases"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "algunos",
-        "title": "4.3 Elementos a tener en cuenta en el Compostaje",
+        "title": "4.3 Elementos a tener en cuenta en el compostaje",
         "anchor": "elementos"
       }
     ]
@@ -136,19 +136,19 @@
       {
         "icon": "fa fa-file-text",
         "slug": "biofertilizantes",
-        "title": "5.1 Efectos de los Biofertilizantes",
+        "title": "5.1 Efectos de los biofertilizantes",
         "anchor": "efectos"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "biofertilizantes",
-        "title": "5.2 Funcionamiento de los Biofertilizantes",
+        "title": "5.2 Funcionamiento de los biofertilizantes",
         "anchor": "funcionamientos"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "biofertilizantes",
-        "title": "5.3 Biofertilizante Súper Magro",
+        "title": "5.3 Biofertilizante súper magro",
         "anchor": "biofertilizante"
       }
     ]
