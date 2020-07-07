@@ -27,7 +27,7 @@
 
 .page-header-textura{
     .page-header {
-        background: url(../images/header/header_pattern.png) scroll center no-repeat $brand-color-dark !important;
+        background: url(../images/header/img1.svg) scroll center no-repeat $brand-color-dark !important;
     }
 }
 
@@ -36,7 +36,7 @@
     font-weight: 600;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: $primary;
+    color: $text-color-dark;
 }
 
 .curso-descripcion {
@@ -50,7 +50,7 @@
 
 .theme-dark {
     .page-header {
-        background: url(../images/header/header_pattern.png) scroll center no-repeat $brand-color-dark !important;
+        background: url(../images/header/img1.svg) scroll center no-repeat $brand-color-dark !important;
     }    
     .curso-subtitulo,
     .curso-titulo,
